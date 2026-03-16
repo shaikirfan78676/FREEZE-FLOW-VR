@@ -79,7 +79,6 @@ This project demonstrates:
 ![Death MSG](Screenshots/death-msg.png)
 ![GAME OVER](Screenshots/Game-over.png)
 
-*(Add gameplay screenshots here)*
 
 ---
 

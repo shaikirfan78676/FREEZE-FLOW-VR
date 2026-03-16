@@ -73,9 +73,12 @@ This project demonstrates:
 ---
 
 ## 📸 Screenshots
-![Launch_scene](Screenshots/launch)
-![Instructions](Screenshots/Instructions)
-![enemies approaching the player](Screenshots/Instructions)
+![Launch_scene](Screenshots/launch.png)
+![Instructions](Screenshots/Instructions.png)
+![enemies approaching the player](Screenshots/Enemy.png)
+![Death MSG](Screenshots/death-msg.png)
+![GAME OVER](Screenshots/Game-over.png)
+
 *(Add gameplay screenshots here)*
 
 ---

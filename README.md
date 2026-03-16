@@ -76,48 +76,6 @@ Defeating enemies can **restore health** when the player is below a certain thre
 Designed specifically for **Virtual Reality gameplay**.
 
 ---
-
-# 📸 Gameplay Gallery
-
-<p align="center">
-
-<img src="Screenshots/Screenshot 2026-03-07 151231.png" width="45%">
-<img src="Screenshots/Screenshot 2026-03-07 151307.png" width="45%">
-
-</p>
-
-<p align="center">
-
-<img src="Screenshots/Screenshot 2026-03-07 151312.png" width="45%">
-<img src="Screenshots/Screenshot 2026-03-10 100110.png" width="45%">
-
-</p>
-
----
-
-# 🎮 Gameplay Concept
-
-In **Freeze Flow VR**, players are placed in a hostile environment where enemies attack continuously.
-When surrounded or critically injured, **time freezes**, giving players a moment to react and survive.
-
-The goal is simple:
-
-**Survive as long as possible.**
-
----
-
-# 🛠️ Technologies Used
-
-| Technology | Purpose                 |
-| ---------- | ----------------------- |
-| Unity      | Game Engine             |
-| C#         | Game Logic              |
-| NavMesh    | Enemy AI                |
-| VR Toolkit | Virtual Reality Support |
-| Coroutines | Wave Management         |
-
----
-
 # 📂 Project Structure
 
 ```id="kj3z2d"

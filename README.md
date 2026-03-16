@@ -30,77 +30,20 @@ The player must survive waves of enemies while managing health and using a **uni
 
 ## 🛠️ Technologies Used
 
-Unity Game Engine
+**-> Unity Game Engine**
 
-C# Programming
+**-> C# Programming**
 
-NavMesh AI
+**-> NavMesh AI**
 
-Virtual Reality (VR)
+**-> Virtual Reality (VR)**
 
-Coroutine Wave Management
-
----
-
-# 🚀 Game Features
-
-### ⏳ Time Freeze Mechanic
-
-When the player's **health drops below a critical level**, time slows down allowing the player to escape danger.
-
-### 🤖 Smart Enemy AI
-
-Enemies use **Unity NavMesh** to intelligently chase and surround the player.
-
-### 🌊 Wave Based Combat
-
-Enemies spawn in **progressively harder waves**, increasing the survival challenge.
-
-### ❤️ Risk-Reward Healing
-
-Defeating enemies can **restore health** when the player is below a certain threshold.
-
-### 🥽 Fully Immersive VR
-
-Designed specifically for **Virtual Reality gameplay**.
-
----
-# 📂 Project Structure
-
-```id="kj3z2d"
-Assets/
-Packages/
-ProjectSettings/
-Screenshots/
-README.md
-```
+**-> Coroutine Wave Management**
 
 ---
 
-# 🎯 Controls
-
-| Action  | Control            |
-| ------- | ------------------ |
-| Move    | VR Controller      |
-| Dodge   | Physical Movement  |
-| Survive | Strategic Movement |
-
----
-
-# 👨‍💻 Author
-
-**Shaik Irfan**
-B.E Computer Science and Engineering
-Saveetha School of Engineering
-
----
-
-<p align="center">
-⭐ If you like this project, give it a star!
-</p>
 
 
----
 
 ## 🎯 Gameplay Concept
 
@@ -137,20 +80,44 @@ This project demonstrates:
 ---
 
 ## 📸 Screenshots
-![Launch_scene](Screenshots/launch.png)
-![Instructions](Screenshots/Instructions.png)
-![enemies approaching the player](Screenshots/Enemy.png)
-![Death MSG](Screenshots/death-msg.png)
-![GAME OVER](Screenshots/Game-over.png)
+<p align="center">
+  <img src="Screenshots/launch.png" width="45%">
+  <img src="Screenshots/Instructions.png" width="45%">
+</p>
 
+<p align="center">
+  <img src="Screenshots/Enemy.png" width="45%">
+  <img src="Screenshots/death-msg.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="Screenshots/Game-over.png" width="45%">
+</p>
 
 ---
 
-## 👨‍💻 Author
+# 🎯 Controls
+
+| Action  | Control            |
+| ------- | ------------------ |
+| Move    | VR Controller      |
+| Dodge   | Physical Movement  |
+| Survive | Strategic Movement |
+
+---
+
+# 👨‍💻 Author
 
 **Shaik Irfan**
 B.E Computer Science and Engineering
 Saveetha School of Engineering
+
+---
+
+<p align="center">
+⭐ If you like this project, give it a star!
+</p>
+
 
 ---
 

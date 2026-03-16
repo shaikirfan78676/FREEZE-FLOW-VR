@@ -73,7 +73,7 @@ This project demonstrates:
 ---
 
 ## 📸 Screenshots
-![Launch_scene](Screenshots/Screenshot 2026-03-07 151222.png)
+![Launch_scene](Screenshots/launch)
 *![Instructions](Screenshots/gameplay1.png)*
 *(Add gameplay screenshots here)*
 

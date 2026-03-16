@@ -74,7 +74,8 @@ This project demonstrates:
 
 ## 📸 Screenshots
 ![Launch_scene](Screenshots/launch)
-*![Instructions](Screenshots/gameplay1.png)*
+![Instructions](Screenshots/Instructions)
+![enemies approaching the player](Screenshots/Instructions)
 *(Add gameplay screenshots here)*
 
 ---

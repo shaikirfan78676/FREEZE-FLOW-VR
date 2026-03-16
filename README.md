@@ -30,11 +30,128 @@ The player must survive waves of enemies while managing health and using a **uni
 
 ## 🛠️ Technologies Used
 
-* **Unity Game Engine**
-* **C# Programming**
-* **Unity NavMesh AI**
-* **Virtual Reality (VR) Integration**
-* **Coroutine-based Wave Management**
+<h1 align="center">🎮 Freeze Flow VR</h1>
+
+<p align="center">
+A fast-paced <b>Virtual Reality Survival Game</b> built with <b>Unity</b>.
+</p>
+
+<p align="center">
+<img src="Screenshots/Screenshot 2026-03-07 151222.png" width="800">
+</p>
+
+---
+
+<p align="center">
+
+![Unity](https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge\&logo=unity)
+![C#](https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge\&logo=csharp)
+![VR](https://img.shields.io/badge/Platform-VR-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Final%20Year%20Project-green?style=for-the-badge)
+
+</p>
+
+---
+
+# 🚀 Game Features
+
+### ⏳ Time Freeze Mechanic
+
+When the player's **health drops below a critical level**, time slows down allowing the player to escape danger.
+
+### 🤖 Smart Enemy AI
+
+Enemies use **Unity NavMesh** to intelligently chase and surround the player.
+
+### 🌊 Wave Based Combat
+
+Enemies spawn in **progressively harder waves**, increasing the survival challenge.
+
+### ❤️ Risk-Reward Healing
+
+Defeating enemies can **restore health** when the player is below a certain threshold.
+
+### 🥽 Fully Immersive VR
+
+Designed specifically for **Virtual Reality gameplay**.
+
+---
+
+# 📸 Gameplay Gallery
+
+<p align="center">
+
+<img src="Screenshots/Screenshot 2026-03-07 151231.png" width="45%">
+<img src="Screenshots/Screenshot 2026-03-07 151307.png" width="45%">
+
+</p>
+
+<p align="center">
+
+<img src="Screenshots/Screenshot 2026-03-07 151312.png" width="45%">
+<img src="Screenshots/Screenshot 2026-03-10 100110.png" width="45%">
+
+</p>
+
+---
+
+# 🎮 Gameplay Concept
+
+In **Freeze Flow VR**, players are placed in a hostile environment where enemies attack continuously.
+When surrounded or critically injured, **time freezes**, giving players a moment to react and survive.
+
+The goal is simple:
+
+**Survive as long as possible.**
+
+---
+
+# 🛠️ Technologies Used
+
+| Technology | Purpose                 |
+| ---------- | ----------------------- |
+| Unity      | Game Engine             |
+| C#         | Game Logic              |
+| NavMesh    | Enemy AI                |
+| VR Toolkit | Virtual Reality Support |
+| Coroutines | Wave Management         |
+
+---
+
+# 📂 Project Structure
+
+```id="kj3z2d"
+Assets/
+Packages/
+ProjectSettings/
+Screenshots/
+README.md
+```
+
+---
+
+# 🎯 Controls
+
+| Action  | Control            |
+| ------- | ------------------ |
+| Move    | VR Controller      |
+| Dodge   | Physical Movement  |
+| Survive | Strategic Movement |
+
+---
+
+# 👨‍💻 Author
+
+**Shaik Irfan**
+B.E Computer Science and Engineering
+Saveetha School of Engineering
+
+---
+
+<p align="center">
+⭐ If you like this project, give it a star!
+</p>
+
 
 ---
 

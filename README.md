@@ -30,22 +30,15 @@ The player must survive waves of enemies while managing health and using a **uni
 
 ## 🛠️ Technologies Used
 
-<h1 align="center">🎮 Freeze Flow VR</h1>
+Unity Game Engine
 
-<p align="center">
-A fast-paced <b>Virtual Reality Survival Game</b> built with <b>Unity</b>.
-</p>
+C# Programming
 
----
+NavMesh AI
 
-<p align="center">
+Virtual Reality (VR)
 
-![Unity](https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge\&logo=unity)
-![C#](https://img.shields.io/badge/Language-C%23-purple?style=for-the-badge\&logo=csharp)
-![VR](https://img.shields.io/badge/Platform-VR-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Final%20Year%20Project-green?style=for-the-badge)
-
-</p>
+Coroutine Wave Management
 
 ---
 

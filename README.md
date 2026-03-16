@@ -36,10 +36,6 @@ The player must survive waves of enemies while managing health and using a **uni
 A fast-paced <b>Virtual Reality Survival Game</b> built with <b>Unity</b>.
 </p>
 
-<p align="center">
-<img src="Screenshots/Screenshot 2026-03-07 151222.png" width="800">
-</p>
-
 ---
 
 <p align="center">
